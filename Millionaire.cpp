@@ -540,5 +540,4 @@ else if (choice=='Y')
  d==0?user():pc();             //random starting of the game depending on d
 }
 getch();
-closegraph();
 }
