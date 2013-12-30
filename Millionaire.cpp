@@ -474,12 +474,10 @@ donecheck()
 
 void main()
 {
-textbackground(WHITE); //set the background color
-textcolor(BLACK);
-clrscr();
+textbackground(LIGHTRED); //set the background color
 textcolor(WHITE);
+clrscr();
 cout<<"*************************   THE MILLIONAIRE JACKPOT   *************************"<<endl<<endl;
-textcolor(BLACK);
 cout<<"WELCOME TO THE MILLIONAIRE JACKPOT!!! \n \n RULES: \n \n"
 	<<"1. THERE WILL BE 15 QUESTIONS FROM $ 500 TO $ 7 MILLION. \n"
 	<<"2. THERE ARE 2 SAFE HAVENS AT Q.NO. 4 ($ 4,000) AND Q.NO. 8 ($ 64,000). ANSWERING A QUESTION WRONG WILL WIN YOU THE AMOUNT OF THE LAST HAVEN AND IF YOU QUIT, YOU WILL WIN TILL THE LAST-ANSWERED QUESTION. \n"
