@@ -31,5 +31,12 @@ Open the file in Turbo C++ and compile and run.
 			3 1: Bottom left
 			3 2: Bottom center
 			3 3: Bottom right
+			
+
+FOR PROGRAMMERS:
+
+In the source code file, please make changes as you desire, keeping in mind restrictions of the compiler and the License.
+
+Contributions are welcome!
 		
 Enjoy the game!!! :)
